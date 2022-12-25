@@ -134,7 +134,7 @@ fun Portfolio(data: List<String>) {
                     ) {
                         Text(text = item, fontWeight = FontWeight.Bold)
                         Text(
-                            text = "An awesome project that is made by yours truly",
+                            text = "An awesome project",
                             fontWeight = FontWeight.Bold,
                             style = MaterialTheme.typography.body2
                         )
